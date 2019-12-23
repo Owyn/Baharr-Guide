@@ -8,8 +8,8 @@
 		"index.js": "e9886a2be3117b51e4cdd3d228ed47c48054c360e9e07b4ba4080e08917f23cf",
 		"module.json": "277e87daded95c3b17a1ba82cc0370c76ddb731431fdaf3841a394ddbe49a661",
 		"skillsList.js": {
-			"overwrite": false,
-			"hash": "3eb597ef3fb1ff45161743827df2b189a79eeb675e76a6ad2588d0f43af2d6a9"
+			"overwrite": true,
+			"hash": "aaf4f84fa592e6cf3b7db00da749a3fa550b443ec214b998d27cf47d6a9e9d5d"
 		}
 	},
 	"defs": {

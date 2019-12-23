@@ -18,8 +18,8 @@ module.exports = {
 		121: {msg: 'Waves (Left)'},
 		122: {msg: 'Waves (Left) 3rd fast'},
 		123: {msg: 'Waves (Left) 2nd fast'},
-		125: {msg: 'Front, ← LEFT safe, Back'},//125 126 127
-		131: {msg: 'Front, RIGHT → safe, Back'},//131 132 134
+		125: {msg: 'Front, LEFT safe, Back'},//125 126 127
+		131: {msg: 'Front, RIGHT safe, Back'},//131 132 134
 		//135: {msg: 'Handle (Perfect block)'},
 		//127: {msg: 'Back Hammer (chain)'},
 		//134: {msg: 'Back Hammer (chain)'},
