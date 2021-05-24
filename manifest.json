@@ -5,10 +5,10 @@
 			"overwrite": false,
 			"hash": "27df31856548ec1115f3d668d105bdb5793d5a71cc02258b9a879935735c145e"
 		},
-		"index.js": "e9886a2be3117b51e4cdd3d228ed47c48054c360e9e07b4ba4080e08917f23cf",
+		"index.js": "27ac80576afc02c87216df0c4e5bbb0f932ffa88f65519851625579cc410758b",
 		"module.json": "277e87daded95c3b17a1ba82cc0370c76ddb731431fdaf3841a394ddbe49a661",
 		"skillsList.js": {
-			"overwrite": true,
+			"overwrite": false,
 			"hash": "aaf4f84fa592e6cf3b7db00da749a3fa550b443ec214b998d27cf47d6a9e9d5d"
 		}
 	},
@@ -24,7 +24,7 @@
 		"S_LOGIN": [13,14],
 		"S_SPAWN_BUILD_OBJECT": 2,
 		"S_SPAWN_COLLECTION": 4,
-		"S_SPAWN_DROPITEM": 8,
+		"S_SPAWN_DROPITEM": 9,
 		"S_SPAWN_ME": 3
 	}
 }

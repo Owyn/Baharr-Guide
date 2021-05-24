@@ -377,7 +377,7 @@ module.exports = function BaharrGuide(mod) {
 		});
 		
 		//if (hide) { curLocation.z = curLocation.z - 1000; }
-		mod.send('S_SPAWN_DROPITEM', 8, {
+		mod.send('S_SPAWN_DROPITEM', 9, {
 			gameId: uid2,
 			item: itemID2,
 			loc: curLocation,
